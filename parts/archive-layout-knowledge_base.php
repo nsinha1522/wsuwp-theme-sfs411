@@ -6,7 +6,7 @@
 
 		if ( is_category() ) {
 			?>
-			<h1>Knowledge base: <?php single_cat_title( '', true ); ?></h1>
+			<h1>Knowledge base: <?php single_cat_title( '', true ); ?> </h1>
 			<?php
 		} else {
 			?>
